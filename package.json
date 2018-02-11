@@ -1,0 +1,22 @@
+{
+  "name": "project-euler-problem-4",
+  "version": "1.0.0",
+  "description": "Project Euler Problem #4",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rullyindraa/project-euler-problem-4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rullyindraa/project-euler-problem-4/issues"
+  },
+  "homepage": "https://github.com/rullyindraa/project-euler-problem-4#readme",
+  "devDependencies": {
+    "jest": "^22.2.2"
+  }
+}
